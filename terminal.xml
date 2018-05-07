@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\tools\msys64\home\SSI20\bin\cli\bat\msys.bat" />
+  </component>
+</application>
